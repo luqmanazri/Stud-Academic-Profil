@@ -4,7 +4,8 @@
 
 using namespace std;
 
-class Student{//class student
+//Class student
+class Student{
 	private:
 		string name;
 		int matric;
